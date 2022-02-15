@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.container{
+ background-color: pink; 
+ height: 500px;
+}
+
+.gridItem
+{
+  background-color: black; 
+ color: white;
+ border: 15px solid #1c6ea4;
+}
+
+.anidado
+{
+  background-color: orange; 
+ color:rebeccapurple;
+ border: 10px solid #1ca45e;
+}
