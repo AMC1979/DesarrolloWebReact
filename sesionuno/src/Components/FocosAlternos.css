@@ -1,0 +1,46 @@
+
+.focoTop
+{
+ width:500px;
+ height: 100px;
+ background-color:white;
+ display: table;
+  position: absolute;
+  top: 20px;
+  left: auto;
+}
+
+.focoTopin
+{
+ width:450px;
+ height: 40px;
+ background-color:orange;
+   position: absolute;
+  top: 30px;
+  left: 25px;
+}
+
+.focoBotton
+{
+ width:500px;
+ height: 100px;
+ background-color:white;
+ 
+  position: absolute;
+  bottom: -400px;
+  TOP: 400px;
+  left: -30px;
+
+}
+
+.focoBottonIN
+{
+ width:450px;
+ height: 40px;
+ background-color:orange;
+ display: table;
+  position: absolute;
+  bottom: 25px;
+  top:auto;
+  left: 25px;
+}
